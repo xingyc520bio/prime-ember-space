@@ -27,7 +27,7 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: ""
       background:
-        color: "#047857"
+        color: ""
         image:
           # Add your image background to `assets/media/`.
           filename: ""
