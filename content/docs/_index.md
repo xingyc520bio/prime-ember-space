@@ -1,6 +1,11 @@
 ---
 linkTitle: Documentation
 title: Introduction
+design:
+  # Inherit global theme settings
+  css_class: ""
+  background:
+    color: ""
 ---
 
 👋 Welcome to the demo of the Hugo Blox Documentation template!
