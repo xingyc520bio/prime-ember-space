@@ -12,10 +12,6 @@ sections:
     content:
       title: Where I Decide Before I Invest
       text: Case studies on early-stage startups, risk, and timing.
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
-        icon: rocket-launch
       secondary_action:
         text: Read the docs
         url: /docs/
