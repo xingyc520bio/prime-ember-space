@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
+      title: Where I Decide Before I Invest
       text: The easy, no-code technical documentation solution your users will love 🎉
       primary_action:
         text: Get Started
@@ -31,7 +31,7 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: ""
       background:
-        color: ""
+        color: "#047857"
         image:
           # Add your image background to `assets/media/`.
           filename: ""
