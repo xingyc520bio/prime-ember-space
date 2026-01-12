@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Where I Decide Before I Invest
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      text: Case studies on early-stage startups, risk, and timing.
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/details/docs/
