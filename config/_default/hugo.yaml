@@ -5,7 +5,7 @@
 
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
-baseURL: 'https://yicai.netlify.app/' # Website URL
+baseURL: 'https://yicai.business/' # Website URL
 
 ############################
 ## PAGE OPTIONS
