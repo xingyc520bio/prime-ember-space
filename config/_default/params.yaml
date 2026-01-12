@@ -93,6 +93,10 @@ hugoblox:
     theme_toggle: true
     theme_picker: false
     language_switcher: true
+    # Logo scaling
+    logo:
+      width: 200
+      height: 200
     # Call-to-action button
     cta:
       enable: false
