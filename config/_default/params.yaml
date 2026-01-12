@@ -46,13 +46,13 @@ hugoblox:
     # Optional: Semantic surface color overrides
     surfaces:
       background: "#ffffff"
-      foreground: "#10b981"
+      foreground: "#047857"
       header:
         background: "#ffffff"
-        foreground: "#10b981"
+        foreground: "#047857"
       footer:
         background: "#ffffff"
-        foreground: "#10b981"
+        foreground: "#047857"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
